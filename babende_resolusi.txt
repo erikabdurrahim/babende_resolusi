@@ -2,3 +2,4 @@ Banbende Resolusi :
 1. Menyisir item kegiatan prakom
 2. Membuat map kegiatan prakom yang memiliki AK tinggi
 3. Belajar terus tentang prerequisite programer
+4. Membuat aplikasi setiap hari
